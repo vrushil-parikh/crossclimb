@@ -1,0 +1,78 @@
+{
+  "puzzleSets": [
+    {
+      "id": "world_history_1",
+      "title": "Ancient Civilizations",
+      "theme": "World History",
+      "rows": [
+        {
+          "id": 1,
+          "clue": "Ancient Egyptian burial structure with triangular sides",
+          "answer": "PYRAMID"
+        },
+        {
+          "id": 2,
+          "clue": "Greek city-state known for military discipline",
+          "answer": "SPARTA"
+        },
+        {
+          "id": 3,
+          "clue": "Roman marketplace",
+          "answer": "FORUM"
+        },
+        {
+          "id": 4,
+          "clue": "Chinese dynasty known for the Terracotta Army",
+          "answer": "QIN"
+        },
+        {
+          "id": 5,
+          "clue": "Incan city in the Andes Mountains",
+          "answer": "MACHUPICCHU"
+        },
+        {
+          "id": 6,
+          "clue": "First code of law in Babylon",
+          "answer": "HAMMURABI"
+        }
+      ]
+    },
+    {
+      "id": "biology_1",
+      "title": "Cell Biology Basics",
+      "theme": "Biology",
+      "rows": [
+        {
+          "id": 1,
+          "clue": "Powerhouse of the cell that produces ATP",
+          "answer": "MITOCHONDRIA"
+        },
+        {
+          "id": 2,
+          "clue": "Organelle where photosynthesis occurs",
+          "answer": "CHLOROPLAST"
+        },
+        {
+          "id": 3,
+          "clue": "Genetic material carrier in the nucleus",
+          "answer": "DNA"
+        },
+        {
+          "id": 4,
+          "clue": "Jelly-like substance filling the cell",
+          "answer": "CYTOPLASM"
+        },
+        {
+          "id": 5,
+          "clue": "Boundary that controls entry and exit in cells",
+          "answer": "MEMBRANE"
+        },
+        {
+          "id": 6,
+          "clue": "Organelle that packages and ships proteins",
+          "answer": "GOLGI"
+        }
+      ]
+    }
+  ]
+}
